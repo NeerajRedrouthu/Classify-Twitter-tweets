@@ -1,6 +1,7 @@
 # Classify-Twitter-tweets
 It was a group project in Information Retrieval class. We chose a classification problem and used twitter tweets as  our data. Our objective was to take the top 20 tweets of any account, perform text classification using the 2 models  we have discussed in class, and classify the account type.
 
+*You'll need steming and tweepy python libraries for the code to work*
 
 A Probabilistic approach to classify Twitter tweets.	
 
