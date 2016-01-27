@@ -270,10 +270,10 @@ def getTerm(line):
 #-------------------------------------------------------------------------------
 
 if __name__=='__main__':
-    consumer_key = 'tsmm09gjp9zn5ZyPy6EznKZnE'
-    consumer_secret = 'GUCslpXHUywn8xSV3gCZquHEmOEFZ3JLUU5N5feS2jqU9WJDeY'
-    access_token = '2431326895-LUDG61cdiXkASnuTUctys78hSs1WZIItLBF9cGt'
-    access_token_secret = 'rNPqhdL1gmIAzcM06cS5BrO22zCJAvM1VP6uHW4l0Rg11'
+    consumer_key = ''                                                           # add your consumer key here
+    consumer_secret = ''                                                        # add consumer secret here
+    access_token = '-'                                                          # add access token secret here
+    access_token_secret = ''                                                    # add access token secret here
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token,access_token_secret)
