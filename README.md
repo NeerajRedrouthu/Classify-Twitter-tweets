@@ -1,6 +1,7 @@
 # Classify-Twitter-tweets
-It was a group project in Information Retrieval class. We chose a classification problem and used twitter tweets as  our data. Our objective was to take the top 20 tweets of any account, perform text classification using the 2 models  we have discussed in class, and classify the account type.
+The objective of this project is to use Supervised Learning technique to build a text classifier that classifies any given twitter account using it's top 20 tweets. I used  Naive Bayes Multinomial model that uses the bad of words method to train the model with training data from several pre-classified twitter accounts and used a completely new account to test the model accuracy.
 
+Task:
 *You'll need stemming and tweepy python libraries for the code to work*
 
 A Probabilistic approach to classify Twitter tweets.	
